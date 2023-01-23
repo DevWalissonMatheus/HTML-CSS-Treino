@@ -29,6 +29,23 @@ p {
     font-size: 1.04rem;
 }
 
+.btn {
+    background-color: #BFDF32;
+    color: white;
+    font-size: 1rem;
+    padding: 6px 70px;
+    text-decoration: none;
+    border: 1px solid #BFDF32;
+    border-radius: 4px;
+    margin-left: 25px;
+    transition: all 0.3s;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #BFDF32;
+}
+
 .top{
     background-color: white;
     padding-bottom: 20px;
@@ -48,6 +65,7 @@ p {
     left: 487px;
     height: 150px;
     width: 231px;
+    font-size: 0.95rem;
 }
 
 .bot {
@@ -61,4 +79,5 @@ p {
     right: 2px;
     height: 150px;
     width: 231px;
+    font-size: 0.85rem;
 }
