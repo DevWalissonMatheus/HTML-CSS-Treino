@@ -1,5 +1,13 @@
 body {
-    font-size: 16px;
+    font-size: 1rem;
+    text-align: center;
+    background-color: hsl(204, 43%, 93%);
+}
+
+.top{
+    background-color: white;
+    padding-bottom: 20px;
+    margin: 15px auto 15px auto;
 }
 
 .mid {
@@ -14,7 +22,8 @@ body {
 .bot {
     background-color: #4ABEBD;
     display: inline-block;
-    padding: 20.5px 20px 20px 20px;
+    line-height: 1.25rem;
+    padding: 20px 20px 20px 20px;
     position: relative;
     top: 5px;
     right: 4px;
