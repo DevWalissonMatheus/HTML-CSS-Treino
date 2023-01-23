@@ -1,0 +1,23 @@
+body {
+    font-size: 16px;
+}
+
+.mid {
+    background-color: #2BB3B1;
+    display: inline-block;
+    padding: 20px;
+    position: relative;
+    height: 150px;
+    width: 230px;
+}
+
+.bot {
+    background-color: #4ABEBD;
+    display: inline-block;
+    padding: 20.5px 20px 20px 20px;
+    position: relative;
+    top: 5px;
+    right: 4px;
+    height: 150px;
+    width: 230px;
+}
