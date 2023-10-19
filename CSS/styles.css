@@ -36,8 +36,8 @@ p {
 .btn {
     background-color: #BFDF32;
     color: white;
-    font-size: 1rem;
-    padding: 6px 70px;
+    font-size: 16px;
+    padding: 6px 60px;
     text-decoration: none;
     border: 1px solid #BFDF32;
     border-radius: 4px;
@@ -52,6 +52,7 @@ p {
 
 .top{
     background-color: white;
+    padding: 5px 1% 20px 4%;
     padding-bottom: 20px;
     padding-left: 20px;
     padding-top: 5px;
@@ -63,11 +64,11 @@ p {
 .mid {
     background-color: #2BB3B1;
     display: inline-block;
-    padding: 20.5px 30px 19px 20px;
+    padding: 23px 43px 44px 20px;
     position: relative;
     bottom: 5px;
     top: 0px;
-    left: 487px;
+    left: 479px;
     height: 150px;
     width: 231px;
     font-size: 0.95rem;
@@ -77,11 +78,11 @@ p {
     background-color: #4ABEBD;
     display: inline-block;
     line-height: 1.25rem;
-    padding: 20.5px 30px 19px 20px;
+    padding: 20.5px 46px 46px 20px;
     position: relative;
     bottom: 0.2px;
     top: -4.5px;
-    left: 483px;
+    left: 462px;
     right: 2px;
     height: 150px;
     width: 231px;
